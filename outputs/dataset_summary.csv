@@ -1,0 +1,10 @@
+metric,value
+raw_rows,25200
+cleaned_rows,24303
+removed_rows,897
+salary_mid_threshold,92500.0
+date_min,2015-02-25T17:00:51+00:00
+date_max,2026-05-22T00:00:10+00:00
+positive_class_share,0.5382463070402831
+salary_mid_min,10000.0
+salary_mid_max,400000.0

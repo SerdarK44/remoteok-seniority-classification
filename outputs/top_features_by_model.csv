@@ -1,0 +1,469 @@
+model,rank,feature,feature_label,importance_mean,importance_std
+Logistic Regression,1,tag_count,Number of tags,0.028640065330033715,0.0028302214136305594
+Logistic Regression,2,tag__technical,Tag: technical,0.013778935873040021,0.0026815399204670027
+Logistic Regression,3,tag__sales,Tag: sales,0.013173574655488776,0.002483245674226634
+Logistic Regression,4,tag__non_tech,Tag: non tech,0.011330680626343126,0.004139966809221062
+Logistic Regression,5,tag__engineer,Tag: engineer,0.010199967862382012,0.001213484702422699
+Logistic Regression,6,tag__video,Tag: video,0.008821517510125868,0.0013348516927295681
+Logistic Regression,7,title__analyst,Title term: analyst,0.008227220957936524,0.0014677045805004821
+Logistic Regression,8,tag__english,Tag: english,0.006229042822285387,0.003194503594997709
+Logistic Regression,9,tag__javascript,Tag: javascript,0.0061025241561348436,0.0018942752093242007
+Logistic Regression,10,title__stack,Title term: stack,0.00606254170372648,0.00044716154729162354
+Logistic Regression,11,location_count,Number of location labels,0.005432701988002646,0.002873250207775858
+Logistic Regression,12,title__full,Title term: full,0.004507871959997134,0.0010318552268896496
+Logistic Regression,13,tag__support,Tag: support,0.0036528657388766503,0.001212503091579937
+Logistic Regression,14,tag__ruby,Tag: ruby,0.0032409002015580577,0.001865200790002606
+Logistic Regression,15,tag__marketing,Tag: marketing,0.002932077491696994,0.0013443760960828676
+Logistic Regression,16,post_month,Posting month,0.0028868783867767034,0.002049499106714644
+Logistic Regression,17,title__content,Title term: content,0.002731469614371725,0.0007083439038513242
+Logistic Regression,18,title__web,Title term: web,0.002708000134721759,0.0004956721317723157
+Logistic Regression,19,tag__saas,Tag: saas,0.002541477742663334,0.001086329553259442
+Logistic Regression,20,tag__leader,Tag: leader,0.00250352505293594,0.0006691976219088256
+Logistic Regression,21,tag__system,Tag: system,0.0022654263087178808,0.00128836674131664
+Logistic Regression,22,title__architect,Title term: architect,0.002182477871823796,0.0005643183925449631
+Logistic Regression,23,tag__analyst,Tag: analyst,0.0020401826471776463,0.001425156947623776
+Logistic Regression,24,title__sales,Title term: sales,0.002036155909984257,0.0007842469958112695
+Logistic Regression,25,title__frontend,Title term: frontend,0.0018270601719377517,0.0006952515201998614
+Logistic Regression,26,tag__finance,Tag: finance,0.001795073094622827,6.987523513624995e-05
+Logistic Regression,27,tag__senior,Tag: senior,0.00178201465978071,0.0007586461194029633
+Logistic Regression,28,tag__management,Tag: management,0.0017027065761302158,0.000990662807654241
+Logistic Regression,29,tag__travel,Tag: travel,0.0016439359516019862,0.0015375018726212176
+Logistic Regression,30,title__customer,Title term: customer,0.0016277897330956674,0.0003858076678419769
+Logistic Regression,31,title__front,Title term: front,0.0016204627853509217,0.0010181140493009159
+Logistic Regression,32,title__security,Title term: security,0.00160386735240714,0.0005252476249957941
+Logistic Regression,33,title__development,Title term: development,0.0015425717132030448,0.0005093412429057043
+Logistic Regression,34,tag__investment,Tag: investment,0.0014166938072118402,0.0002789544332344603
+Logistic Regression,35,title__technical,Title term: technical,0.0014086545947725737,0.0006103189611158203
+Logistic Regression,36,tag__ui,Tag: ui,0.001278024993142483,0.00016113591635042801
+Logistic Regression,37,tag__director,Tag: director,0.0012615575767597937,0.00028903376694895054
+Logistic Regression,38,title__lead,Title term: lead,0.0012499299927923129,0.0005167187341579865
+Logistic Regression,39,tag__android,Tag: android,0.0012418264897498716,0.00022999237219936317
+Logistic Regression,40,description_chars_log,"Description length, log",0.0011723269453625858,0.001215909459485578
+Logistic Regression,41,title__operations,Title term: operations,0.0011642138914730686,0.0002807972601943635
+Logistic Regression,42,tag__manager,Tag: manager,0.0011554851732208011,0.0014385065310688822
+Logistic Regression,43,tag__full_time,Tag: full-time,0.0009836164971304868,0.0003659599621435239
+Logistic Regression,44,location__brazil,Location: brazil,0.0009779093431050805,0.00043677004918421286
+Logistic Regression,45,title__product,Title term: product,0.0009640857603864609,0.0010805983068977348
+Logistic Regression,46,title__marketing,Title term: marketing,0.0009362456679251249,8.118689997428244e-05
+Logistic Regression,47,tag__software,Tag: software,0.0009139856376276789,0.0014102965518135785
+Logistic Regression,48,tag__financial,Tag: financial,0.0008922012128709245,0.0006975913090351596
+Logistic Regression,49,title__associate,Title term: associate,0.0008834766698630666,1.1823858895851753e-05
+Logistic Regression,50,post_year,Posting year,0.0008515055664705488,0.0013963985448446994
+Logistic Regression,51,tag__developer,Tag: developer,0.0008386282932943597,0.0014408969362984378
+Logistic Regression,52,tag__executive,Tag: executive,0.000822117325204208,0.0005549396838955661
+Logistic Regression,53,tag__content,Tag: content,0.0008140642833236456,0.00028886677463410104
+Logistic Regression,54,tag__training,Tag: training,0.0007891910889347894,0.0007176626512536339
+Logistic Regression,55,tag__operations,Tag: operations,0.0007528149091088713,0.0006767354432144868
+Logistic Regression,56,tag__operational,Tag: operational,0.0007137354717500211,0.0006824452468876373
+Logistic Regression,57,location__australia,Location: australia,0.0007001516109073439,0.00027913126414581975
+Logistic Regression,58,location__germany,Location: germany,0.0006919478422385087,0.00047762956513570205
+Logistic Regression,59,title__success,Title term: success,0.0006831732847239665,0.0002594877604727078
+Logistic Regression,60,tag__crypto,Tag: crypto,0.0006580566248501526,0.0015131662117445766
+Logistic Regression,61,tag__medical,Tag: medical,0.0005818242863278774,0.0011228376989037003
+Logistic Regression,62,title__platform,Title term: platform,0.000544000845872176,0.0001612143782473782
+Logistic Regression,63,tag__legal,Tag: legal,0.0005421436385041704,0.00036184742217880845
+Logistic Regression,64,title_chars_log,"Title length, log",0.0005336581104141332,0.0007365681315585075
+Logistic Regression,65,location__argentina,Location: argentina,0.0005081536641416973,0.0002476514424959106
+Logistic Regression,66,title__end,Title term: end,0.00049116709213796,0.0007584825079147659
+Logistic Regression,67,tag__node,Tag: node,0.0004809212002963396,0.0003218491700585857
+Logistic Regression,68,title__golang,Title term: golang,0.0004638643931342464,0.0001729855690390002
+Logistic Regression,69,title__representative,Title term: representative,0.0004554533089799658,0.00016109049975375513
+Logistic Regression,70,title__director,Title term: director,0.00044710706469208716,0.00034560118330535214
+Logistic Regression,71,title__engineering,Title term: engineering,0.00044537944297218246,0.0008624247726387966
+Logistic Regression,72,title__engineer,Title term: engineer,0.00041112750829582395,0.00036740057016644144
+Logistic Regression,73,location__france,Location: france,0.00041111363403793327,0.0004205719770174824
+Logistic Regression,74,title__business,Title term: business,0.00040279445016081866,0.00020854881916350645
+Logistic Regression,75,location__nigeria,Location: nigeria,0.0003415451242193557,0.0
+Logistic Regression,76,tag__microsoft,Tag: microsoft,0.00030774675479265195,0.00040848773387384095
+Logistic Regression,77,tag__strategy,Tag: strategy,0.00023621358172968657,0.0002175681162744881
+Logistic Regression,78,title__scientist,Title term: scientist,0.00022769674947957044,0.00016100591561113875
+Logistic Regression,79,title__fullstack,Title term: fullstack,0.00022767843580132988,8.119383423470614e-05
+Logistic Regression,80,title__executive,Title term: executive,0.000209321936187686,0.0005050066811862819
+Logistic Regression,81,title__designer,Title term: designer,0.00019357113803097903,0.0004974211164216175
+Logistic Regression,82,title__cloud,Title term: cloud,0.0001918883464085234,0.0005286040862079666
+Logistic Regression,83,tag__accounting,Tag: accounting,0.00018356854776191422,0.0
+Logistic Regression,84,location__gibraltar,Location: gibraltar,0.00018356854776191422,0.0
+Logistic Regression,85,title__react,Title term: react,0.00018356854776191422,0.0
+Logistic Regression,86,tag__python,Tag: python,0.00016472011374194887,0.0007492350623080034
+Logistic Regression,87,tag__excel,Tag: excel,0.0001308731409837005,0.0003659705195687492
+Logistic Regression,88,location__colombia,Location: colombia,0.00011384837473978522,0.00016100591561113875
+Logistic Regression,89,location__poland,Location: poland,0.00011383006106154465,8.116815109836214e-05
+Logistic Regression,90,location__philippines,Location: philippines,0.00010526726660927317,0.00021762470755715396
+Logistic Regression,91,tag__growth,Tag: growth,8.908420109617528e-05,0.0006091484460228639
+Logistic Regression,92,tag__full_stack,Tag: full-stack,7.828358908953022e-05,0.00022562243375392105
+Logistic Regression,93,location__ireland,Location: ireland,6.977542890762578e-05,8.114809795690404e-05
+Logistic Regression,94,location__portugal,Location: portugal,5.273249369134684e-05,0.000494710729752705
+Logistic Regression,95,tag__ux,Tag: ux,5.262672146836659e-05,0.00021762136376748508
+Logistic Regression,96,location__singapore,Location: singapore,5.262672146836659e-05,0.00021762136376748508
+Logistic Regression,97,title__rails,Title term: rails,5.237895260268299e-05,0.0003523251869824171
+Logistic Regression,98,title__enterprise,Title term: enterprise,4.405943701039453e-05,0.00016102546523632662
+Logistic Regression,99,tag__voice,Tag: voice,4.804856475656057e-09,0.00014063608053563854
+Logistic Regression,100,title__intern,Title term: intern,0.0,0.0
+Logistic Regression,101,location__netherlands,Location: netherlands,0.0,0.0
+Logistic Regression,102,tag__healthcare,Tag: healthcare,0.0,0.0
+Logistic Regression,103,tag__edu,Tag: edu,-8.58110813051205e-06,0.00013958408952780165
+Logistic Regression,104,location__united_kingdom,Location: united kingdom,-5.259909589272471e-05,0.00021750712683107768
+Logistic Regression,105,title__software,Title term: software,-5.37665374766109e-05,0.0011920998851538318
+Logistic Regression,106,tag__testing,Tag: testing,-9.543363011221828e-05,0.0012097883275591136
+Logistic Regression,107,tag__engineering,Tag: engineering,-0.0001135527509284658,0.0010432701879603138
+Logistic Regression,108,title__support,Title term: support,-0.00011371487205539636,0.0001429634090556287
+Logistic Regression,109,tag__reliability,Tag: reliability,-0.00011378861181336279,0.00016092139807006504
+Logistic Regression,110,title__specialist,Title term: specialist,-0.00013967436585878476,0.0004582858344058449
+Logistic Regression,111,title__backend,Title term: backend,-0.00015747490683692966,0.00024765433971382867
+Logistic Regression,112,tag__api,Tag: api,-0.00015771451962801977,0.00024155724441775165
+Logistic Regression,113,title__account,Title term: account,-0.00017505620315982906,0.0002893654084992167
+Logistic Regression,114,tag__linux,Tag: linux,-0.00017521306769093434,0.0013032191820993835
+Logistic Regression,115,tag__junior,Tag: junior,-0.00017524466029783525,0.0010077416174956674
+Logistic Regression,116,location__spain,Location: spain,-0.00022757722362672558,0.00016092139807006504
+Logistic Regression,117,location__mexico,Location: mexico,-0.0002361721324815047,0.00028858208570450275
+Logistic Regression,118,tag__web,Tag: web,-0.00024487278941313456,0.00035650518425569763
+Logistic Regression,119,title__staff,Title term: staff,-0.00025343524437393405,0.00034690742198584344
+Logistic Regression,120,title__ruby,Title term: ruby,-0.0002535963972708129,0.0003005120747003652
+Logistic Regression,121,location__united_states,Location: united states,-0.00027111265422985475,0.0003779215479740028
+Logistic Regression,122,title__developer,Title term: developer,-0.00027166477720652615,0.0009347231124073403
+Logistic Regression,123,title__principal,Title term: principal,-0.00032400112861608044,0.00013940640230641533
+Logistic Regression,124,tag__java,Tag: java,-0.00040266558707428385,0.0002291307157057221
+Logistic Regression,125,location__canada,Location: canada,-0.00043776211134775406,0.0005051155502509381
+Logistic Regression,126,tag__mobile,Tag: mobile,-0.00046390104106996954,0.00022911353144161183
+Logistic Regression,127,tag__consulting,Tag: consulting,-0.0004724454759587789,0.0008087189496725829
+Logistic Regression,128,title__manager,Title term: manager,-0.00047255576231460444,0.0001674413140463479
+Logistic Regression,129,tag__cloud,Tag: cloud,-0.000481417219354352,0.0003721982105995369
+Logistic Regression,130,title__data,Title term: data,-0.0004984972376892438,0.0006001595088533119
+Logistic Regression,131,tag__recruitment,Tag: recruitment,-0.0005511049712985105,0.0006460790446797572
+Logistic Regression,132,tag__go,Tag: go,-0.0005867534838692364,0.0010468754861316326
+Logistic Regression,133,title__senior,Title term: senior,-0.0006476074283742935,0.0008620300426318589
+Logistic Regression,134,title__systems,Title term: systems,-0.0006560836072529256,0.0003599686418012497
+Logistic Regression,135,title__devops,Title term: devops,-0.000682602463508375,0.00037461056182033715
+Logistic Regression,136,tag__recruiter,Tag: recruiter,-0.0007176630531383251,0.00042901229173724216
+Logistic Regression,137,tag__educational,Tag: educational,-0.0007613501021126456,7.421093908436765e-05
+Logistic Regression,138,tag__react,Tag: react,-0.000778659941651827,7.525323140199694e-05
+Logistic Regression,139,tag__git,Tag: git,-0.0008485776079579047,0.0003687886972685795
+Logistic Regression,140,tag__recruiting,Tag: recruiting,-0.0008664887010596534,0.00039372426007095037
+Logistic Regression,141,posting_age_days,Posting age in days,-0.0009018112398938941,0.0005082773256171122
+Logistic Regression,142,tag__fintech,Tag: fintech,-0.0009370233292510891,0.0005183010907306853
+Logistic Regression,143,location__india,Location: india,-0.0009888951883886277,0.00046234524365035886
+Logistic Regression,144,tag__salesforce,Tag: salesforce,-0.001007234653741751,0.0007355080273536407
+Logistic Regression,145,tag__devops,Tag: devops,-0.0010492503529636599,0.00028291381060938027
+Logistic Regression,146,tag__golang,Tag: golang,-0.0010846588469770602,0.0015625944258993104
+Logistic Regression,147,tag__front_end,Tag: front end,-0.0011016885327809571,0.00021714080281108738
+Logistic Regression,148,tag__design,Tag: design,-0.0011455447868225683,0.0015511727703253026
+Logistic Regression,149,tag__quality_assurance,Tag: quality assurance,-0.0011540353974052546,0.0007560532162889755
+Logistic Regression,150,tag__test,Tag: test,-0.0013131496342123257,0.00034491777139363525
+Logistic Regression,151,tag__lead,Tag: lead,-0.0013202107695943581,0.000899788352752709
+Logistic Regression,152,tag__code,Tag: code,-0.0013829335078533826,0.0015132228680761028
+Logistic Regression,153,tag__backend,Tag: backend,-0.0015842114326698094,0.00013942832390280498
+Logistic Regression,154,tag__security,Tag: security,-0.0018476520486461572,0.0009938197650154335
+Logistic Regression,155,tag__analytics,Tag: analytics,-0.0019422941340216937,0.0006517823024481282
+Logistic Regression,156,tag__health,Tag: health,-0.0019864315844051092,0.0006325569455854306
+Random Forest,1,posting_age_days,Posting age in days,0.08367168269983223,0.0012312660686621562
+Random Forest,2,post_year,Posting year,0.023600022741444276,0.0011976138123890308
+Random Forest,3,tag_count,Number of tags,0.01385221605100421,0.003508283110004994
+Random Forest,4,tag__sales,Tag: sales,0.01302676977193229,0.0008937360545224815
+Random Forest,5,tag__marketing,Tag: marketing,0.008139816798650057,0.00042468191137670945
+Random Forest,6,tag__senior,Tag: senior,0.00786554733035764,0.0034899529576341228
+Random Forest,7,tag__non_tech,Tag: non tech,0.007775393744325343,0.0008621225570615317
+Random Forest,8,post_month,Posting month,0.007430217344405003,0.0003463800470513045
+Random Forest,9,tag__support,Tag: support,0.006847343484968553,0.00023238720134725725
+Random Forest,10,description_chars_log,"Description length, log",0.00625291229079498,0.0012603002784713905
+Random Forest,11,tag__cloud,Tag: cloud,0.006086874079903122,0.0003484675710487591
+Random Forest,12,tag__engineer,Tag: engineer,0.00606170594198067,0.0009446259719524467
+Random Forest,13,tag__javascript,Tag: javascript,0.005413352325534008,0.0010686255631718205
+Random Forest,14,tag__video,Tag: video,0.005119354637957911,0.0011185547170502958
+Random Forest,15,location_count,Number of location labels,0.004751591170643092,0.0005094713720460862
+Random Forest,16,tag__engineering,Tag: engineering,0.004048447138529736,0.0010057990482207875
+Random Forest,17,title__senior,Title term: senior,0.003974535152276119,0.0005806623820316608
+Random Forest,18,title__engineer,Title term: engineer,0.003573104399265392,0.0012653133426194776
+Random Forest,19,tag__system,Tag: system,0.0032796305678025974,0.0004207047451235995
+Random Forest,20,title_chars_log,"Title length, log",0.003180553084397797,0.0010696874588878962
+Random Forest,21,tag__saas,Tag: saas,0.0029116164297072387,0.0008919852074217234
+Random Forest,22,tag__golang,Tag: golang,0.002884784888194769,0.0007547591040153117
+Random Forest,23,tag__manager,Tag: manager,0.002490131356935543,0.0010212984777587814
+Random Forest,24,tag__mobile,Tag: mobile,0.0024398644039547537,0.0005273792211893593
+Random Forest,25,tag__technical,Tag: technical,0.002391511068458326,0.001246336177982687
+Random Forest,26,tag__testing,Tag: testing,0.0023617926197055197,0.0010539909447696474
+Random Forest,27,tag__management,Tag: management,0.0022658501159822375,0.000897791929064284
+Random Forest,28,title__backend,Title term: backend,0.0021733332391447404,0.0002769675655181368
+Random Forest,29,title__software,Title term: software,0.002105176996625121,0.0007795548520178065
+Random Forest,30,title__manager,Title term: manager,0.0020594809755788055,0.000965023434617133
+Random Forest,31,tag__microsoft,Tag: microsoft,0.00200455304710608,0.000309623329835056
+Random Forest,32,title__product,Title term: product,0.0019997265317733084,0.0005593468928184352
+Random Forest,33,tag__python,Tag: python,0.0019953924113222943,0.0008093043713359196
+Random Forest,34,tag__software,Tag: software,0.0019407876154831083,0.000367687185629486
+Random Forest,35,tag__backend,Tag: backend,0.0019174979267539232,0.0007332564756505264
+Random Forest,36,tag__growth,Tag: growth,0.001835514475614956,0.0010039948338853991
+Random Forest,37,tag__quality_assurance,Tag: quality assurance,0.001803422582232946,0.0002775767232055436
+Random Forest,38,tag__design,Tag: design,0.001469412169268473,0.00073909982085969
+Random Forest,39,location__united_states,Location: united states,0.0013596419781498614,0.0013815860316757085
+Random Forest,40,tag__english,Tag: english,0.001271466409270931,0.00047370397576774537
+Random Forest,41,tag__devops,Tag: devops,0.0012175140952378853,0.00030881996857168986
+Random Forest,42,tag__security,Tag: security,0.0011950151700922025,0.0006162594324619435
+Random Forest,43,tag__health,Tag: health,0.0011856729177318985,0.0004530385187712737
+Random Forest,44,tag__travel,Tag: travel,0.0011539239260473695,0.0008585782650856981
+Random Forest,45,title__data,Title term: data,0.00102956269171998,0.000360728149602284
+Random Forest,46,tag__edu,Tag: edu,0.000988169845906291,0.0003224828026141541
+Random Forest,47,tag__api,Tag: api,0.0009689571369540703,0.0003874368020041985
+Random Forest,48,title__frontend,Title term: frontend,0.0008702461822548043,0.0002330180321901414
+Random Forest,49,tag__junior,Tag: junior,0.0008606568224473291,0.00034733545605154933
+Random Forest,50,tag__full_time,Tag: full-time,0.0008190574434702169,0.00035694485546763726
+Random Forest,51,tag__ruby,Tag: ruby,0.0008092954821622422,0.0006197757557133507
+Random Forest,52,tag__linux,Tag: linux,0.000797090494513449,0.00047627700384925397
+Random Forest,53,title__customer,Title term: customer,0.000762465144029704,0.00012940557976763402
+Random Forest,54,title__designer,Title term: designer,0.0007456766035403017,0.00040642406953456323
+Random Forest,55,tag__developer,Tag: developer,0.000701548039419834,0.00014088030040564222
+Random Forest,56,title__devops,Title term: devops,0.0006918891815693717,0.00021964278998252328
+Random Forest,57,title__lead,Title term: lead,0.0006821480545069111,0.00010371334580496142
+Random Forest,58,tag__crypto,Tag: crypto,0.000682069525344072,0.0002744102578799552
+Random Forest,59,tag__financial,Tag: financial,0.0006727292562695256,0.0005429940550586356
+Random Forest,60,tag__leader,Tag: leader,0.0005355007669372395,0.00022871504063737955
+Random Forest,61,title__golang,Title term: golang,0.0005354752342704439,0.0
+Random Forest,62,tag__analyst,Tag: analyst,0.0005233020877304743,0.0002521554002626652
+Random Forest,63,title__sales,Title term: sales,0.0005158437122355272,0.0006615423530354781
+Random Forest,64,tag__healthcare,Tag: healthcare,0.00049388770938071,0.00025249304809375593
+Random Forest,65,tag__web,Tag: web,0.0004621027758114904,5.3265456225315866e-05
+Random Forest,66,title__architect,Title term: architect,0.0004620602634558176,0.00020748224241107682
+Random Forest,67,tag__content,Tag: content,0.00044996890172751175,0.00018014788116799257
+Random Forest,68,title__operations,Title term: operations,0.00043042397336231125,0.00029736868619179864
+Random Forest,69,title__analyst,Title term: analyst,0.0004085317662028502,0.00040826249321241736
+Random Forest,70,tag__lead,Tag: lead,0.0004084978646926955,0.0005928950080809293
+Random Forest,71,tag__android,Tag: android,0.00038868454142197234,0.00020759338865645175
+Random Forest,72,tag__node,Tag: node,0.0003865338560964382,0.0003094066498187235
+Random Forest,73,tag__finance,Tag: finance,0.00037887141056554735,0.00021987492132685796
+Random Forest,74,title__support,Title term: support,0.00034505746238592633,0.00025721173961844556
+Random Forest,75,tag__operations,Tag: operations,0.00034491441485133095,0.000548905747795113
+Random Forest,76,tag__excel,Tag: excel,0.00033519219565891767,0.0005704240321423043
+Random Forest,77,title__stack,Title term: stack,0.0003252601173191853,0.0001486445347041581
+Random Forest,78,tag__front_end,Tag: front end,0.0003231306720733462,0.00043279268711525303
+Random Forest,79,title__rails,Title term: rails,0.0003153481628711541,0.0
+Random Forest,80,title__ruby,Title term: ruby,0.0003153481628711541,0.0
+Random Forest,81,tag__accounting,Tag: accounting,0.0002935622052950097,0.00017540836135735715
+Random Forest,82,tag__consulting,Tag: consulting,0.00029349747074084814,0.0001037253691362103
+Random Forest,83,title__engineering,Title term: engineering,0.0002934581963569549,0.0002075062806387762
+Random Forest,84,tag__medical,Tag: medical,0.00029336266960033885,0.0006254789775376197
+Random Forest,85,tag__operational,Tag: operational,0.00028416204888944324,0.000870047072986558
+Random Forest,86,tag__training,Tag: training,0.0002836726120621913,0.0002614368596939414
+Random Forest,87,tag__git,Tag: git,0.0002836077990471993,0.00021975595502132884
+Random Forest,88,tag__java,Tag: java,0.00024198098785221944,0.000351326130266649
+Random Forest,89,title__business,Title term: business,0.000220152558843556,0.0
+Random Forest,90,title__intern,Title term: intern,0.000220152558843556,0.0
+Random Forest,91,tag__go,Tag: go,0.0002201132844596628,0.000179705712623841
+Random Forest,92,title__staff,Title term: staff,0.00021028842578100596,0.00029739274374958666
+Random Forest,93,location__canada,Location: canada,0.00021023210858076938,0.00014865654960060862
+Random Forest,94,title__principal,Title term: principal,0.00021023210858076938,0.00014865654960060862
+Random Forest,95,tag__recruitment,Tag: recruitment,0.0001685744949474118,0.00027769373873875986
+Random Forest,96,tag__strategy,Tag: strategy,0.00015671749789010944,0.00018514604874161368
+Random Forest,97,title__content,Title term: content,0.00014676837256237066,0.00010378091150256593
+Random Forest,98,tag__ui,Tag: ui,0.00014672909817847746,0.0002075062806387762
+Random Forest,99,title__technical,Title term: technical,0.00013676930444598648,0.0003099354189272648
+Random Forest,100,tag__full_stack,Tag: full-stack,0.00010511605429038469,0.00014865654960060862
+Random Forest,101,title__systems,Title term: systems,7.338418628118533e-05,0.00010378091150256593
+Random Forest,102,title__security,Title term: security,7.338418628118533e-05,0.00010378091150256593
+Random Forest,103,tag__executive,Tag: executive,6.166397398421619e-05,0.00011144851855856766
+Random Forest,104,title__scientist,Title term: scientist,3.164476031847219e-05,0.00035626194469987136
+Random Forest,105,location__india,Location: india,1.0049946637743131e-05,0.00014856498183573775
+Random Forest,106,tag__analytics,Tag: analytics,2.5442249492376352e-08,0.0002287566414856956
+Random Forest,107,title__cloud,Title term: cloud,0.0,0.0
+Random Forest,108,title__executive,Title term: executive,0.0,0.0
+Random Forest,109,location__portugal,Location: portugal,0.0,0.0
+Random Forest,110,location__ireland,Location: ireland,0.0,0.0
+Random Forest,111,location__singapore,Location: singapore,0.0,0.0
+Random Forest,112,location__colombia,Location: colombia,0.0,0.0
+Random Forest,113,location__philippines,Location: philippines,0.0,0.0
+Random Forest,114,location__france,Location: france,0.0,0.0
+Random Forest,115,location__nigeria,Location: nigeria,0.0,0.0
+Random Forest,116,location__netherlands,Location: netherlands,0.0,0.0
+Random Forest,117,title__enterprise,Title term: enterprise,0.0,0.0
+Random Forest,118,title__fullstack,Title term: fullstack,0.0,0.0
+Random Forest,119,location__gibraltar,Location: gibraltar,0.0,0.0
+Random Forest,120,location__mexico,Location: mexico,0.0,0.0
+Random Forest,121,location__spain,Location: spain,0.0,0.0
+Random Forest,122,tag__investment,Tag: investment,0.0,0.0
+Random Forest,123,location__poland,Location: poland,0.0,0.0
+Random Forest,124,location__australia,Location: australia,0.0,0.0
+Random Forest,125,location__united_kingdom,Location: united kingdom,0.0,0.0
+Random Forest,126,location__brazil,Location: brazil,0.0,0.0
+Random Forest,127,location__germany,Location: germany,0.0,0.0
+Random Forest,128,tag__reliability,Tag: reliability,0.0,0.0
+Random Forest,129,tag__recruiting,Tag: recruiting,-2.164796538643247e-05,0.00010373736475223943
+Random Forest,130,tag__legal,Tag: legal,-4.1674638558049835e-05,0.0003605608936435502
+Random Forest,131,title__web,Title term: web,-4.1722440310828134e-05,0.00013208760607934364
+Random Forest,132,title__associate,Title term: associate,-7.342349221917122e-05,0.00010383649849314735
+Random Forest,133,location__argentina,Location: argentina,-7.342349221917122e-05,0.00010383649849314735
+Random Forest,134,title__development,Title term: development,-7.342349221917122e-05,0.00010383649849314735
+Random Forest,135,title__account,Title term: account,-7.342349221917122e-05,0.00010383649849314735
+Random Forest,136,title__developer,Title term: developer,-7.474305229867213e-05,0.00039256741169121234
+Random Forest,137,title__platform,Title term: platform,-0.00010505978231267754,0.00014857696900655358
+Random Forest,138,tag__salesforce,Tag: salesforce,-0.00010505978231267754,0.00014857696900655358
+Random Forest,139,tag__voice,Tag: voice,-0.00010505978231267754,0.00014857696900655358
+Random Forest,140,title__representative,Title term: representative,-0.00010505978231267754,0.00014857696900655358
+Random Forest,141,title__marketing,Title term: marketing,-0.00011519375989310632,0.00031745606729123983
+Random Forest,142,title__specialist,Title term: specialist,-0.00022021418506760573,0.00025743255279631733
+Random Forest,143,tag__director,Tag: director,-0.00022027047665751365,0.0
+Random Forest,144,tag__test,Tag: test,-0.00024178668444707618,0.00010379289867338173
+Random Forest,145,title__react,Title term: react,-0.00024292548815352255,0.0003598698351415558
+Random Forest,146,tag__recruiter,Tag: recruiter,-0.00028355152706945513,0.0002197478416601573
+Random Forest,147,title__full,Title term: full,-0.00028355152706945513,0.0002197478416601573
+Random Forest,148,tag__code,Tag: code,-0.00029386827304452484,0.0006258957594702715
+Random Forest,149,title__director,Title term: director,-0.0003151793469380326,0.0
+Random Forest,150,title__success,Title term: success,-0.0003568540306703172,0.0003219127170526226
+Random Forest,151,tag__react,Tag: react,-0.0004450862147115098,0.00040554450792304437
+Random Forest,152,tag__educational,Tag: educational,-0.0004620432718262328,0.00010384847720011808
+Random Forest,153,tag__ux,Tag: ux,-0.0004620432718262328,0.00010384847720011808
+Random Forest,154,tag__fintech,Tag: fintech,-0.0005986268710411006,0.00021968498098674704
+Random Forest,155,title__front,Title term: front,-0.0007248034663392966,0.0
+Random Forest,156,title__end,Title term: end,-0.0008716225787533208,0.00010381678999574659
+Histogram Gradient Boosting,1,posting_age_days,Posting age in days,0.2129390857461758,0.003673337135665269
+Histogram Gradient Boosting,2,tag__sales,Tag: sales,0.014107233265242066,0.0009476107686197117
+Histogram Gradient Boosting,3,tag__engineer,Tag: engineer,0.011089268463073343,0.0020740188388318663
+Histogram Gradient Boosting,4,tag__non_tech,Tag: non tech,0.010203390182525732,0.0012977849327812671
+Histogram Gradient Boosting,5,tag_count,Number of tags,0.00950138962379606,0.001088615651413557
+Histogram Gradient Boosting,6,tag__senior,Tag: senior,0.008724497606151571,0.000844214156941061
+Histogram Gradient Boosting,7,tag__video,Tag: video,0.008362015985821055,0.0004631372482598713
+Histogram Gradient Boosting,8,tag__marketing,Tag: marketing,0.008087661021792628,0.001640502184281798
+Histogram Gradient Boosting,9,tag__javascript,Tag: javascript,0.007400848262641017,0.0005096431968369743
+Histogram Gradient Boosting,10,description_chars_log,"Description length, log",0.007003942191786461,0.0018337693573792844
+Histogram Gradient Boosting,11,tag__cloud,Tag: cloud,0.0062398556412437784,0.0007160688149959702
+Histogram Gradient Boosting,12,tag__design,Tag: design,0.005564215872106093,0.0017886771959495964
+Histogram Gradient Boosting,13,tag__english,Tag: english,0.0054852837670410865,0.0014947305801115626
+Histogram Gradient Boosting,14,tag__mobile,Tag: mobile,0.005258911051619686,0.0008650724355623815
+Histogram Gradient Boosting,15,tag__python,Tag: python,0.004153347267221497,0.001534588609394126
+Histogram Gradient Boosting,16,tag__developer,Tag: developer,0.0038254821575612144,0.00016746528822522184
+Histogram Gradient Boosting,17,post_month,Posting month,0.003733111258655164,0.0003976242921123491
+Histogram Gradient Boosting,18,tag__system,Tag: system,0.003640767954962598,0.0009016047750760268
+Histogram Gradient Boosting,19,tag__backend,Tag: backend,0.0035619405734191125,0.0006926441279234876
+Histogram Gradient Boosting,20,tag__microsoft,Tag: microsoft,0.003509827490495739,0.0008043565278458296
+Histogram Gradient Boosting,21,tag__travel,Tag: travel,0.003209062370583974,0.0011261542004954758
+Histogram Gradient Boosting,22,tag__golang,Tag: golang,0.003187763436690768,0.0001752178498569418
+Histogram Gradient Boosting,23,title__backend,Title term: backend,0.0028141219973935407,5.315852425427625e-05
+Histogram Gradient Boosting,24,tag__crypto,Tag: crypto,0.0027108990565443878,0.0010441911461561422
+Histogram Gradient Boosting,25,tag__saas,Tag: saas,0.0026221852340058507,0.0009901387528447878
+Histogram Gradient Boosting,26,tag__testing,Tag: testing,0.0026089694740294433,0.0007751524838596797
+Histogram Gradient Boosting,27,tag__operational,Tag: operational,0.0022547234034395736,0.0005979974998249676
+Histogram Gradient Boosting,28,tag__junior,Tag: junior,0.001496393826515378,0.0005462727961711183
+Histogram Gradient Boosting,29,tag__legal,Tag: legal,0.0014817815470790086,0.0008790125392034171
+Histogram Gradient Boosting,30,title__engineer,Title term: engineer,0.0014370308965180323,0.000536758153695925
+Histogram Gradient Boosting,31,title__software,Title term: software,0.0013516114738152767,0.00038763252979610857
+Histogram Gradient Boosting,32,tag__medical,Tag: medical,0.0013374159807690484,0.000812259606004746
+Histogram Gradient Boosting,33,tag__recruiter,Tag: recruiter,0.0011662473232357435,0.0004163257129469419
+Histogram Gradient Boosting,34,title__manager,Title term: manager,0.0011652181597888722,0.0002467638457631462
+Histogram Gradient Boosting,35,title__web,Title term: web,0.0011512912224778127,0.0006848694800074048
+Histogram Gradient Boosting,36,location_count,Number of location labels,0.0011074395115060105,0.00023461254175878587
+Histogram Gradient Boosting,37,title__analyst,Title term: analyst,0.0010944148505435125,0.00047393761397480146
+Histogram Gradient Boosting,38,tag__devops,Tag: devops,0.0010500921404278756,0.0006061515379842844
+Histogram Gradient Boosting,39,tag__lead,Tag: lead,0.0010221566313375712,8.868599037386118e-05
+Histogram Gradient Boosting,40,tag__full_time,Tag: full-time,0.0009791242692997286,0.00010175538868494097
+Histogram Gradient Boosting,41,tag__node,Tag: node,0.0009055491976047714,0.00014116327471451766
+Histogram Gradient Boosting,42,tag__quality_assurance,Tag: quality assurance,0.0008770906469085515,0.00016239200531243842
+Histogram Gradient Boosting,43,tag__software,Tag: software,0.0008488932484389163,0.00033499009869693454
+Histogram Gradient Boosting,44,title__senior,Title term: senior,0.0008207944885746018,0.0006886427115619396
+Histogram Gradient Boosting,45,tag__health,Tag: health,0.0008200783519471214,0.00016170039881071576
+Histogram Gradient Boosting,46,location__united_states,Location: united states,0.0008050100187163567,0.0007801866193797838
+Histogram Gradient Boosting,47,title_chars_log,"Title length, log",0.0007925237359543239,0.0008936126153985639
+Histogram Gradient Boosting,48,tag__engineering,Tag: engineering,0.0007908912622773082,0.0005127327602026771
+Histogram Gradient Boosting,49,title__customer,Title term: customer,0.0005897515934804402,0.0003272153091598562
+Histogram Gradient Boosting,50,tag__manager,Tag: manager,0.0005327320877074696,0.0007941865978230017
+Histogram Gradient Boosting,51,tag__edu,Tag: edu,0.0005187908982220435,0.0008575180809612587
+Histogram Gradient Boosting,52,title__data,Title term: data,0.0005163764373946241,0.0016655707162213538
+Histogram Gradient Boosting,53,tag__executive,Tag: executive,0.0005038278886777178,0.00014254836220700475
+Histogram Gradient Boosting,54,tag__fintech,Tag: fintech,0.00043173420842923527,0.0
+Histogram Gradient Boosting,55,tag__react,Tag: react,0.00041659840932491604,0.0004913541614574685
+Histogram Gradient Boosting,56,tag__operations,Tag: operations,0.0003885973066423502,9.32783623524602e-05
+Histogram Gradient Boosting,57,tag__accounting,Tag: accounting,0.0003885526437008939,9.313362005376517e-05
+Histogram Gradient Boosting,58,tag__ruby,Tag: ruby,0.0003742831722106654,0.00021618527874935143
+Histogram Gradient Boosting,59,title__designer,Title term: designer,0.00035983443406277055,4.0729614002298226e-05
+Histogram Gradient Boosting,60,tag__leader,Tag: leader,0.00035982695740903,0.00012379709333260633
+Histogram Gradient Boosting,61,title__principal,Title term: principal,0.0003454305968089895,0.00012710214678382276
+Histogram Gradient Boosting,62,tag__strategy,Tag: strategy,0.0003454305968089895,0.00012710214678382276
+Histogram Gradient Boosting,63,title__content,Title term: content,0.0003310640848294503,8.141703208227006e-05
+Histogram Gradient Boosting,64,title__director,Title term: director,0.0003307433019646607,0.00045468309509576514
+Histogram Gradient Boosting,65,title__lead,Title term: lead,0.00031647390509596346,0.00040063494382911884
+Histogram Gradient Boosting,66,tag__linux,Tag: linux,0.000287785561475092,0.00026915393211789643
+Histogram Gradient Boosting,67,title__development,Title term: development,0.00027345625885881003,0.00021250414454714676
+Histogram Gradient Boosting,68,tag__go,Tag: go,0.00027342640444549815,0.0001809553160901086
+Histogram Gradient Boosting,69,tag__technical,Tag: technical,0.0002733816721037045,0.0003275491205201716
+Histogram Gradient Boosting,70,title__architect,Title term: architect,0.00025917913046902274,0.0004606808469181665
+Histogram Gradient Boosting,71,title__developer,Title term: developer,0.0002451174990623084,0.0006202264594233235
+Histogram Gradient Boosting,72,tag__git,Tag: git,0.0002446859096254898,0.00021250313544160732
+Histogram Gradient Boosting,73,title__product,Title term: product,0.0002446859096254898,0.00021250313544160732
+Histogram Gradient Boosting,74,tag__support,Tag: support,0.0002446785487028036,0.000615364636992773
+Histogram Gradient Boosting,75,location__united_kingdom,Location: united kingdom,0.00021592301385053858,0.0
+Histogram Gradient Boosting,76,tag__excel,Tag: excel,0.00021592301385053858,0.0
+Histogram Gradient Boosting,77,title__operations,Title term: operations,0.00021592301385053858,0.0
+Histogram Gradient Boosting,78,title__front,Title term: front,0.00021592301385053858,0.0
+Histogram Gradient Boosting,79,tag__ui,Tag: ui,0.00021592301385053858,0.0
+Histogram Gradient Boosting,80,tag__reliability,Tag: reliability,0.0002014893743669995,0.0001424745029519403
+Histogram Gradient Boosting,81,tag__consulting,Tag: consulting,0.0002014893743669995,0.0001424745029519403
+Histogram Gradient Boosting,82,tag__financial,Tag: financial,0.0001871303042361531,0.0005463080987984777
+Histogram Gradient Boosting,83,tag__android,Tag: android,0.00017271896140036436,9.328538754911179e-05
+Histogram Gradient Boosting,84,title__frontend,Title term: frontend,0.00014418689748866656,7.326712756921756e-05
+Histogram Gradient Boosting,85,tag__web,Tag: web,0.00014394867590035906,0.00010178708487196843
+Histogram Gradient Boosting,86,title__stack,Title term: stack,0.00014394867590035906,0.00010178708487196843
+Histogram Gradient Boosting,87,tag__salesforce,Tag: salesforce,0.00012988744329530308,0.0004327221814757051
+Histogram Gradient Boosting,88,title__associate,Title term: associate,0.00011519323937658754,0.00030792831739308145
+Histogram Gradient Boosting,89,tag__front_end,Tag: front end,0.00010128044041439004,0.00016619160050476784
+Histogram Gradient Boosting,90,tag__test,Tag: test,0.00010074468718349976,0.00014247450295194026
+Histogram Gradient Boosting,91,title__react,Title term: react,0.00010074468718349976,0.00014247450295194026
+Histogram Gradient Boosting,92,title__executive,Title term: executive,0.00010074468718349976,0.00014247450295194026
+Histogram Gradient Boosting,93,tag__full_stack,Tag: full-stack,0.00010074468718349976,0.00014247450295194026
+Histogram Gradient Boosting,94,tag__api,Tag: api,7.197433795017953e-05,0.00010178708487196843
+Histogram Gradient Boosting,95,title__sales,Title term: sales,5.7480989640016723e-05,4.064519756376951e-05
+Histogram Gradient Boosting,96,tag__content,Tag: content,4.330831977924129e-05,0.0005470622129510361
+Histogram Gradient Boosting,97,tag__analytics,Tag: analytics,4.321890142640802e-05,0.00030113209998271613
+Histogram Gradient Boosting,98,title__engineering,Title term: engineering,3.2034832904888805e-07,0.00030098900380345987
+Histogram Gradient Boosting,99,location__netherlands,Location: netherlands,0.0,0.0
+Histogram Gradient Boosting,100,title__technical,Title term: technical,0.0,0.0
+Histogram Gradient Boosting,101,title__intern,Title term: intern,0.0,0.0
+Histogram Gradient Boosting,102,title__rails,Title term: rails,0.0,0.0
+Histogram Gradient Boosting,103,title__enterprise,Title term: enterprise,0.0,0.0
+Histogram Gradient Boosting,104,title__fullstack,Title term: fullstack,0.0,0.0
+Histogram Gradient Boosting,105,title__cloud,Title term: cloud,0.0,0.0
+Histogram Gradient Boosting,106,title__ruby,Title term: ruby,0.0,0.0
+Histogram Gradient Boosting,107,title__staff,Title term: staff,0.0,0.0
+Histogram Gradient Boosting,108,title__platform,Title term: platform,0.0,0.0
+Histogram Gradient Boosting,109,title__scientist,Title term: scientist,0.0,0.0
+Histogram Gradient Boosting,110,location__ireland,Location: ireland,0.0,0.0
+Histogram Gradient Boosting,111,location__singapore,Location: singapore,0.0,0.0
+Histogram Gradient Boosting,112,title__full,Title term: full,0.0,0.0
+Histogram Gradient Boosting,113,title__end,Title term: end,0.0,0.0
+Histogram Gradient Boosting,114,tag__recruitment,Tag: recruitment,0.0,0.0
+Histogram Gradient Boosting,115,title__representative,Title term: representative,0.0,0.0
+Histogram Gradient Boosting,116,title__marketing,Title term: marketing,0.0,0.0
+Histogram Gradient Boosting,117,location__portugal,Location: portugal,0.0,0.0
+Histogram Gradient Boosting,118,location__argentina,Location: argentina,0.0,0.0
+Histogram Gradient Boosting,119,location__philippines,Location: philippines,0.0,0.0
+Histogram Gradient Boosting,120,location__colombia,Location: colombia,0.0,0.0
+Histogram Gradient Boosting,121,location__spain,Location: spain,0.0,0.0
+Histogram Gradient Boosting,122,location__australia,Location: australia,0.0,0.0
+Histogram Gradient Boosting,123,location__gibraltar,Location: gibraltar,0.0,0.0
+Histogram Gradient Boosting,124,location__nigeria,Location: nigeria,0.0,0.0
+Histogram Gradient Boosting,125,tag__healthcare,Tag: healthcare,0.0,0.0
+Histogram Gradient Boosting,126,location__brazil,Location: brazil,0.0,0.0
+Histogram Gradient Boosting,127,location__germany,Location: germany,0.0,0.0
+Histogram Gradient Boosting,128,location__mexico,Location: mexico,0.0,0.0
+Histogram Gradient Boosting,129,location__india,Location: india,0.0,0.0
+Histogram Gradient Boosting,130,tag__investment,Tag: investment,0.0,0.0
+Histogram Gradient Boosting,131,tag__analyst,Tag: analyst,0.0,0.0
+Histogram Gradient Boosting,132,tag__director,Tag: director,0.0,0.0
+Histogram Gradient Boosting,133,tag__educational,Tag: educational,0.0,0.0
+Histogram Gradient Boosting,134,location__poland,Location: poland,0.0,0.0
+Histogram Gradient Boosting,135,title__security,Title term: security,-3.7302066805781443e-08,0.00017634609004019174
+Histogram Gradient Boosting,136,location__france,Location: france,-2.8718163433157546e-05,0.0002124455755331855
+Histogram Gradient Boosting,137,title__golang,Title term: golang,-0.00010069250138333707,0.00014240070108558693
+Histogram Gradient Boosting,138,tag__growth,Tag: growth,-0.00010069250138333707,0.00014240070108558693
+Histogram Gradient Boosting,139,tag__voice,Tag: voice,-0.0001440232800339706,0.00010183983796074971
+Histogram Gradient Boosting,140,tag__security,Tag: security,-0.0001580692469016117,0.0003385745195392351
+Histogram Gradient Boosting,141,tag__code,Tag: code,-0.00015811395607800982,0.00010179760108538771
+Histogram Gradient Boosting,142,title__devops,Title term: devops,-0.00015811395607804682,0.00043491740653437056
+Histogram Gradient Boosting,143,tag__java,Tag: java,-0.00015863613887530845,0.0003534339471275655
+Histogram Gradient Boosting,144,tag__management,Tag: management,-0.00018722692732053847,0.0006925392060760314
+Histogram Gradient Boosting,145,title__support,Title term: support,-0.00021547596827309334,0.0004270307677423256
+Histogram Gradient Boosting,146,title__account,Title term: account,-0.00021603492005095593,0.0
+Histogram Gradient Boosting,147,title__business,Title term: business,-0.00021609475650645008,0.0003928447195871624
+Histogram Gradient Boosting,148,title__success,Title term: success,-0.0002880391124144473,0.0003388253533431637
+Histogram Gradient Boosting,149,tag__ux,Tag: ux,-0.0002880838911410259,0.00010189263207060397
+Histogram Gradient Boosting,150,tag__training,Tag: training,-0.0003019806497113568,0.0005864090735662487
+Histogram Gradient Boosting,151,location__canada,Location: canada,-0.0004026286560736188,0.0002060581982108743
+Histogram Gradient Boosting,152,title__systems,Title term: systems,-0.0004173826207508243,0.0002847486490823925
+Histogram Gradient Boosting,153,title__specialist,Title term: specialist,-0.0004321595368598589,0.0006376549258469658
+Histogram Gradient Boosting,154,tag__finance,Tag: finance,-0.0005753179832848065,0.0001070990336216802
+Histogram Gradient Boosting,155,tag__recruiting,Tag: recruiting,-0.0008921418247842908,0.0001019136070407987
+Histogram Gradient Boosting,156,post_year,Posting year,-0.001132197876474191,0.0006642713931213278
